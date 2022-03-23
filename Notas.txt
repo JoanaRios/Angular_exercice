@@ -8,3 +8,5 @@ responde con un archivo json.
 
 app angular(main)=>módulo raíz(definición del componente princiál a cargar: app.module.ts)
 =>componente principal(appComponent)=>decorator(selector, plantilla,estilo)
+ 
+from github
